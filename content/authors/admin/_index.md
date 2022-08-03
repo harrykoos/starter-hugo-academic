@@ -1,7 +1,7 @@
 ---
 title: Harrison (Harry) Koos
 role: PhD Student in Health Economics
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Health Economics
