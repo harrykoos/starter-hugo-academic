@@ -1,7 +1,7 @@
 ---
 title: Harrison (Harry) Koos
 role: PhD Student in Health Economics
-avatar_filename: img_3470.jpeg
+avatar_filename: img_4333.jpg
 bio: ""
 interests:
   - Health Economics
@@ -12,10 +12,10 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: graduation-cap
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=B3mA4UQAAAAJ&hl=en&oi=sra
     label: Google Scholar
-  - icon: github
+  - icon: graduation-cap
     icon_pack: ai
     link: https://healthpolicy.fsi.stanford.edu/people/harry-koos
     label: Stanford Health Policy Bio
