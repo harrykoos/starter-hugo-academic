@@ -40,6 +40,6 @@ email: hkoos@stanford.edu
 superuser: true
 highlight_name: true
 ---
-I am a PhD student in Health Policy (focus in Health Economics) at the Stanford University School of Medicine. My academic research interests include pricing and market competition among hospitals, innovation and adoption of medical technologies, and wasted spending in the U.S. healthcare system. 
+I am a PhD student in Health Policy (focus in Health Economics) at the Stanford University School of Medicine. My academic research interests include pricing and market competition among hospitals, innovation and adoption of medical technologies, and wasted spending in the U.S. healthcare system.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
