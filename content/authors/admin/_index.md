@@ -1,77 +1,45 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Harrison (Harry) Koos
+role: PhD Student in Health Economics
+avatar_filename: img_3470.jpeg
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Health Economics
+  - Health Tech Innovation
+  - Effective Altruism
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: /#contact
+  - icon: graduation-cap
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=B3mA4UQAAAAJ&hl=en&oi=sra
+    label: Google Scholar
   - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon_pack: ai
+    link: https://healthpolicy.fsi.stanford.edu/people/harry-koos
+    label: Stanford Health Policy Bio
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/harrisonkoos/
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+education:
+  courses:
+    - course: PhD in Health Policy (Health Economics)
+      institution: Stanford University
+      year: 2023
+    - course: MS in Management Science & Engineering
+      institution: Stanford University
+      year: 2022
+    - course: BS in Industrial Engineering
+      institution: Cal Poly, San Luis Obispo
+      year: 2020
+email: hkoos@stanford.edu
+superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Harry Koos is a PhD student in Health Policy (Health Economics) at the Stanford School of Medicine. His research interests include pricing and market competition among hospitals, innovation and adoption of medical technologies, and wasted spending in the U.S. healthcare system. Harry earned a BS in Industrial Engineering from Cal Poly, San Luis Obispo and an MS in Management Science & Engineering from Stanford University. During his master’s, he conducted research with the Clinical Excellence Research Center (CERC), Systems Utilization Research for Stanford Medicine (SURF), and Health Equity Advancement through Research and Technology (Heart Lab). He was also a Summer Fellow for the Market Oversight & Transparency team at the Massachusetts Health Policy Commission. During his undergrad, he gained experience in the medical device, hospital, and biotech industries through internships with Medtronic, Stanford Health Care, and Cepheid.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
