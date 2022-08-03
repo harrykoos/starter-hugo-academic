@@ -11,7 +11,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=B3mA4UQAAAAJ&hl=en&oi=sra
     label: Google Scholar
@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/harrisonkoos/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Stanford University Department of Heath Policy
+    url: https://healthpolicy.fsi.stanford.edu/
 education:
   courses:
     - course: PhD in Health Policy (Health Economics)
