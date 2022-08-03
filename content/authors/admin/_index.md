@@ -16,7 +16,7 @@ social:
     link: https://scholar.google.com/citations?user=B3mA4UQAAAAJ&hl=en&oi=sra
     label: Google Scholar
   - icon: graduation-cap
-    icon_pack: ai
+    icon_pack: far
     link: https://healthpolicy.fsi.stanford.edu/people/harry-koos
     label: Stanford Health Policy Bio
   - icon: linkedin
