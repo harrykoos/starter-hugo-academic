@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: Course-Projects
 headless: true
-weight: 50
+weight: 100
 title: Course Projects
 subtitle: ""
 content:
