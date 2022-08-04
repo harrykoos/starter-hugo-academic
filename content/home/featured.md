@@ -2,7 +2,7 @@
 widget: featured
 widget_id: Academic Work
 headless: true
-weight: 40
+weight: 60
 title: Publications
 subtitle: ""
 content:
