@@ -1,8 +1,8 @@
 ---
 widget: featured
-widget_id: Publications
+widget_id: Academic Work
 headless: true
-weight: 80
+weight: 40
 title: Publications
 subtitle: ""
 content:
